@@ -1,0 +1,11 @@
+# SD-WAN Example - SampleCustomer - Office LAN
+
+<html>
+<head>
+<title>msa-lan</title>
+<meta charset="utf-8"/>
+</head>
+<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile userAgent=\&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/8.8.0 Chrome/61.0.3163.100 Electron/2.0.2 Safari/537.36\&quot; version=\&quot;9.2.3\&quot; editor=\&quot;www.draw.io\&quot; type=\&quot;device\&quot;&gt;&lt;diagram id=\&quot;4b964f95-88e9-273d-32c7-09524a223000\&quot; name=\&quot;Page-1\&quot;&gt;7VrZcpswFP0aP6bDjnlMvCUzSZupO5PmUQYZaGTkynJs9+srQGITdomDHbeFPAQd7feec7kC9/TBYjshYBk8YA+inqZ4254+7GmaqqoK+xcjO44oqpkiPgk9juXANPwFRUOOrkMPrkoNKcaIhssy6OIogi4tYYAQvCk3m2NUnnUJfCgBUxcgGX0KPRqkaN9UcvwWhn4gZlYVXjMD7otP8Dri8/U0fZ5cafUCiLF4+1UAPLwpQPqopw8IxjS9W2wHEMXGFWZL+4331GbrJjCiTTpYdtrjFaA1FEtOFkZ3whjJdmDcQe3pN5sgpHC6BG5cu2H+Z1hAF4hXe2AVZG0RmEF0k5lkgBEmrCrCEet8s6IEv0ABMkspycVq5iFClcZzHNFC05EV/zFc3jC3wSskFG4LEDfABOIFpGTHmojaPncGZ6tm8fImd73hcCwouF0zOAg43fxs7Nzk7IZbvd4DtiMZHHqMjLzIt5/7QCnbG25D+j2GP5m89CxqIu86lkI+CEPGYbyQZJAfkNIdlx5YU8wgTGiAfRwBdI/xko+z301pjRCIesBLzDlkV1hmXHzm69jrwRVeE5ebxDR4FADEh7yZzbkbm+ugnwlEgIavZW3X+Yx3fcQhW0rGD0Mr8yMriyHSRfFeFc9ny2hEBrHNkhwtxDZ8M2M3fnwz+PJ1lIFEoNOnu2+DWxkXCJt5lmPvUfhbRC3EW9Azo8V4bPdTnTO6cAY6MnvGycVwgEI/YpjLGAJJO6LXbe2TWXKrbsqyN2tUb7YhevNkot8vtEsKCM1Eb8miFwppT/SNfWZ1PjvOZ5bzUT4Tq6mPpwVXWj/XccqV7P1qldjzmjVwltu8rhpS47ZHDzIdXj1df5bj9Wg4qYnuhSiezvqG4M4swtJm+OfADlbLNJeeh9uYwS1EenXs9IfGgdBeeQK0ENgNza4Edq1/vsCuO6cnnJvZMW8o9FyAjpzsHrNjEKu8mz7KPFQn/w43R+rQHNkH4l373DQNtcxM7XzMFGeVjpkdM2VmapbxYcy09ZMlVn9Z8mT1LyrhNbqE9ziffVzCK1bTJbz/TcIrv8k4Z8Jr97sg0SBIOHKQaP/1ZeMgcfCQ0r1lbO8to3wYPetbxrqUvypWSUoFJzTVh/5efYjDyVGJT0NLvvMrQPUrkVX1ULof6SuANBCzYnkg5WSfE2xB2IsngF4TIBtnUR0B9hKg7vNuJdIfd4ZP+z5M43zvPs/r9uRrl/2k2HeuPuuTQimTwjjdAZwV8x8YpKTKf8ahj34D&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script>
+</body>
+</html>
