@@ -1,4 +1,7 @@
-# SD-WAN Example 2 - SampleCustomer
+# osConnect Example Design 2
+
+With this design, the customer prefers to keep the majority of their transit off the osCloud network, in favor of a more direct approach. With these requirements, we place the osConnect Aggregation servers onsite at the customer premises:
+
 <html>
 <head>
 <title>msa-option2</title>
@@ -8,3 +11,7 @@
 <script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script>
 </body>
 </html>
+
+Internet-bound traffic backhauls to the customer data center via the secure osConnect network and is secured with osProtect firewalls.
+
+Additionally, osCloud services can still be leveraged to provide cloud services. In this example, the customer still using osProtect cloud firewalls to provide a secure and highly available remote access VPN solution to their employees, while still providing connectivity to company IT resources.

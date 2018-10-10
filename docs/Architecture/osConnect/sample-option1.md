@@ -2,10 +2,6 @@
 
 With this design, the customer leverages nearby osCloud POPs to quickly offload network traffic from internet providers to the osCloud network. In this scenario, the customer's Phoenix office connects to osCloud AZ01, which is about 5ms of network latency away. Once on the osCloud network, internet traffic is able to locally egress, secured by an osProtect Cloud Firewall, and customer-bound traffic is able to traverse the osCloud backbone (10 Gbps) and reach is final destination.
 
-Las Vegas and Reno offices follow the same logic, except they prefer osCloud NV01 as their primary point of ingress, since it is also around 5ms of network latency away.
-
-In this scenario, the customer's primary data center is colocated with osCloud, or in the same metro area. osConnect infrastructure is not required at the data center site, since a 10 Gbps metro cross connect is implemented. The customer also maintains osProtect firewalls in their data center to secure hosted traffic.
-
 <html>
 <head>
 <title>osconnect-design1</title>
@@ -15,3 +11,7 @@ In this scenario, the customer's primary data center is colocated with osCloud, 
 <script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script>
 </body>
 </html>
+
+Las Vegas and Reno offices follow the same logic, except they prefer osCloud NV01 as their primary point of ingress, since it is also around 5ms of network latency away.
+
+In this scenario, the customer's primary data center is colocated with osCloud, or in the same metro area. osConnect infrastructure is not required at the data center site, since a 10 Gbps metro cross connect is implemented. The customer also maintains osProtect firewalls in their data center to secure hosted traffic.
