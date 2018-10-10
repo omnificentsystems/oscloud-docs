@@ -9,12 +9,9 @@ nav:
     - Routing:
         - 'BGP Communities': 'Routing/BGP Community Structure.md'
     - Architecture:
-        - 'SD-WAN': 
-            - 'Example 1 Overview': 'Architecture/SampleCustomer/sample-option1.md'
-            - 'Example 1 Data Center LAN': 'Architecture/SampleCustomer/sample-option1-dc.md'
-            - 'Example 2 Overview': 'Architecture/SampleCustomer/sample-option2.md'
-            - 'Example 2 Data Center LAN': 'Architecture/SampleCustomer/sample-option2-dc.md'
-            - 'Example 1 & 2: Office LAN': 'Architecture/SampleCustomer/sample-lan.md'
+        - 'osConnect': 
+            - 'Example Design 1': 'Architecture/osConnect/sample-option1.md'
+            - 'Example Design 2': 'Architecture/osConnect/sample-option2.md'
 # Theme Configuration
 theme:
   name: 'material'
