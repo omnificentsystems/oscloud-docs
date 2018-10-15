@@ -1,0 +1,15 @@
+{
+  "name": "oscloud-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/omnificentsystems/oscloud-docs.git",
+  "author": "checktheroads <mtt.lov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "prod": "vuepress build"
+  }
+}
