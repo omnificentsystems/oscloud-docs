@@ -11,5 +11,6 @@
   "scripts": {
     "dev": "vuepress dev",
     "prod": "vuepress build"
+    "docs:build": "vuepress build"
   }
 }
