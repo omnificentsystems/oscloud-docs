@@ -33,7 +33,7 @@
         v-for="(feature, index) in data.features"
         :key="index"
       >
-        <h2>{{ feature.title }}</h2>
+        <h2><a :href="feature.link">{{ feature.title }}</a></h2>
         <p>{{ feature.details }}</p>
       </div>
     </div>

@@ -1,11 +1,13 @@
 ---
-title: osCloud Services Documentation
+title: Services Documentation
+home: true
+heroImage: /icon-text-bottom-dark.png
+features:
+- title: Architecture Reference
+  details: Reference designs for osCloud services
+  link: /docs/architecture/
+- title: Policy Reference
+  details: Peering & Routing policies
+  link: /docs/policy/
+footer: Copyright © 2018 Omnificent Systems Inc. All Rights Reserved.
 ---
-# Services Documentation
-This is a collection of any relevant public-facing documentation for osCloud customers.
-## Architecture Reference
-### [osConnect](/docs/architecture/osConnect/)
-### [osProtect](/docs/architecture/osProtect/)
-## Policy Reference
-### [Peering](/docs/peering/)
-### [Routing](/docs/routing/)
