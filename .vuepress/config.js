@@ -11,7 +11,7 @@ module.exports = {
                {text: 'Policy Reference', items: [ { text: 'Peering', link: '/docs/peering/' }, { text: 'Routing', link: '/docs/routing/' } ] }
             ]
           },
-          { text: 'Portal', link '/portal/'},
+          { text: 'Portal', link: '/portal/'},
         { text: 'Omnficent Systems', link: 'https://www.omnificentsystems.com' }
         ]
       }
