@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Services Documentation",
+    title: "Customer Portal",
     description: "osCloud Services Documentation",
     themeConfig: {
       logo: '/icon-text-side-dark.png',
