@@ -6,7 +6,7 @@
   "author": "checktheroads <mtt.lov@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "vuepress": "^0.14.4"
+    "vuepress": "^0.14.4",
     "netlify-identity-widget": "^1.4.14"
   },
   "scripts": {
