@@ -8,7 +8,7 @@ module.exports = {
         { text: 'Home', link: '/' },
         { text: 'Docs',
           items: [ { text: 'Architecture Reference', items: [ { text: 'osConnect', link: '/docs/architecture/osConnect/' }, { text: 'osProtect', link: '/docs/architecture/osProtect/' } ] },
-               {text: 'Policy Reference', items: [ { text: 'Peering', link: '/docs/peering/' }, { text: 'Routing', link: '/docs/routing/' } ] }
+               {text: 'Policy Reference', items: [ { text: 'Peering', link: '/docs/policy/peering/' }, { text: 'Routing', link: '/docs/policy/routing/' } ] }
             ]
           },
           { text: 'Portal', link: '/portal/'},
