@@ -42,7 +42,7 @@ For example:
 
 `ASN : Received from POP : osCloud AZ01` logic would be written as:
 
-`395077:1:1011`
+`395077:100:11`
 
 `ASN : Prepend 3x : LEVEL 3` Logic would be written as:
 
@@ -93,4 +93,9 @@ The Omnificent Systems community structure is allocated into the following bucke
 
 | Community       | Effect                 |
 |:---------------:| ----------------------:|
-| `395077:1:1011` | Received from AZ01     |
+| `395077:100:11` | Received from AZ01     |
+| `395077:100:12` | Received from NV01     |
+| `395077:100:13` | Received from HI01     |
+| `395077:100:21` | Received from OH01     |
+| `395077:100:22` | Received from NJ01     |
+| `395077:100:23` | Received from GA01     |
