@@ -28,23 +28,23 @@ Standard Communities ([RFC 1997](https://tools.ietf.org/html/rfc1997)):
 
 Extended Communities ([RFC 4360](https://tools.ietf.org/html/rfc4360)):
 
-`0-65535`:`0-65535`
+`0-65535 : 0-65535`
 
 ---
 
 Large Communities ([RFC 8092](https://tools.ietf.org/html/rfc8092)):
 
-`0-4294967295`:`0-4294967295`:`0-4294967295`
+`0-4294967295 : 0-4294967295 : 0-4294967295`
 
-Typically, the three fields are structured as `Operator ASN`:`Function`:`Parameter`.
+Typically, the three fields are structured as `Operator ASN : Function : Parameter`.
 
 For example:
 
-`ASN`:`Received from POP`:`osCloud AZ01` logic would be written as:
+`ASN : Received from POP : osCloud AZ01` logic would be written as:
 
 `395077:1:1011`
 
-`ASN`:`Prepend 3x`:`LEVEL 3` Logic would be written as:
+`ASN : Prepend 3x : LEVEL 3` Logic would be written as:
 
 `395077:2001:3356`
 
