@@ -66,7 +66,18 @@ The Omnificent Systems community structure is allocated into the following bucke
 
 ## Community Assignments
 
-##### POP Information
+### Informational Communities
+
+#### Origin Tag Types
+
+|  Tag  |  Info         | Example              | Result                                                            |
+|:------:|:--------|:-----------------|:-----------------------------------------|
+| `100` | By POP ID | `395077:100:21` | Route learned/originated from **OH01** |
+| `200` | By PE Router   | `395077:200:1301` | Route learned/originated from **HI01 PE01** |
+| `300` | By Peer AS   | `395077:300:174` | Route learned from `AS174` |
+| `400` | By Route Type   | `395077:400:2001` | Transit Route |
+
+##### POPs
 
 | POP Location  | POP Name | POP ID |
 |:--            |   :--:   |  :--:  |
@@ -76,6 +87,8 @@ The Omnificent Systems community structure is allocated into the following bucke
 | Dayton, OH    | OH01     | **21** |
 | Edison, NJ    | NJ01     | **22** |
 | Atlanta, GA   | GA01     | **23** |
+
+##### Peers
 
 #### Upstream Peers
 
@@ -87,15 +100,26 @@ The Omnificent Systems community structure is allocated into the following bucke
 | Hawaiian Telcom    | `36149`  |      |      |  ✅  |      |      |      |
 | Hurricane Electric | `6939`   |  ✅  |      |  ✅  |      |      |      |
 
-### Informational Communities
+##### Route Types
 
-#### Received from POP
+| Type | ID             |
+|:-------:|:-------:|
+| Peering | `1001` |
+| IX           | `1002` |
+| Transit   | `2001` |
+| Customer | `3001` |
 
-| Community       | Effect                 |
-|:---------------:| ----------------------:|
-| `395077:100:11` | Received from AZ01     |
-| `395077:100:12` | Received from NV01     |
-| `395077:100:13` | Received from HI01     |
-| `395077:100:21` | Received from OH01     |
-| `395077:100:22` | Received from NJ01     |
-| `395077:100:23` | Received from GA01     |
+### Action Communities
+
+## Local Preference
+
+### By Route Type
+
+| Route Type | `AS395077` LocalPref |
+|:------------|:-----------------------|
+| Customer    | `140` |
+| Peer             | `80` |
+| IX                  | `60` |
+| Transit         | `40` |
+
+### By Location
