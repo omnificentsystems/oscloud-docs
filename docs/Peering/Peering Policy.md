@@ -1,8 +1,6 @@
 ## Peering Information
 
-Omnificent Systems has an open peering policy, however we do have several basic requirements:
-
-* Peering partners must not be a current Omnificent Systems transit customer.
+Omnificent Systems has an open peering policy, however we do have a few basic requirements:
 
 * Peering partners must maintain a 24x7 Network Operations Center.
 
@@ -10,7 +8,7 @@ Omnificent Systems has an open peering policy, however we do have several basic 
 
 * Peering partners are prohibited from abusing our peering relationship by routing transitive traffic through `AS395077` or resetting any next-hop.
 
-* Peering partners are requested to peer at all common peering points.
+* Peering partners are required to peer at all common peering points.
 
 * We reserve the right to decline new peer relationships with anyone as we see fit and to terminate any existing peer relationships at any time with 30 days notice.
 
