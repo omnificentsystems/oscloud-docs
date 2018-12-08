@@ -12,6 +12,8 @@ nav:
         - 'osConnect': 
             - 'Example Design 1': 'Architecture/osConnect/sample-option1.md'
             - 'Example Design 2': 'Architecture/osConnect/sample-option2.md'
+        - 'Campus Networking': 
+            - 'Routed Access Layer': 'Architecture/Campus/routed-campus.md'
 # Theme Configuration
 theme:
   name: 'material'
