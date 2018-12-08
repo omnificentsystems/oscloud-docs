@@ -44,7 +44,7 @@ Each IDF is assigned a /21 in IPv4 LAN address space, which can be subdivided up
 |IDF2    |30     |10.1.18.0/24|Operations|
 |IDF2    |40     |10.1.19.0/24|Guest     |
 
-Notice that the VLAN IDs are the same. This is because the VLANs (broadcast domains) don't ever leave this switch, so they can be reused. This makes for easy templating and configuration standardization, as well as removes the headache of trying to match up VLAN IDs with subnet IDs. 
+Notice that the VLAN IDs are the same. This is because the VLANs (broadcast domains) don't ever leave the access switch, so they can be reused. This makes for easy templating and configuration standardization, as well as removes the headache of trying to match up VLAN IDs with subnet IDs. 
 
 In this topology, any one of these links can be brought down without impacting connectivity for anything on the network. Configuration and operational processes are minimal, and most access switching vendors don't charge extra for these features (or if they do, it's generally negligible).
 
