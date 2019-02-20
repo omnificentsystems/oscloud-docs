@@ -4,15 +4,11 @@ site_url: 'https://docs.oscloud.io'
 copyright: 'Copyright &copy; 2018 Omnificent Systems Inc. All Rights Reserved.'
 nav:
     - Home: 'index.md'
-    - Peering:
-        - 'Peering Policy': 'Peering/Peering Policy.md'
-    - Routing:
-        - 'BGP Communities': 'Routing/BGP Community Structure.md'
     - Architecture:
-        - 'osConnect': 
+        - 'osConnect':
             - 'Example Design 1': 'Architecture/osConnect/sample-option1.md'
             - 'Example Design 2': 'Architecture/osConnect/sample-option2.md'
-        - 'Campus Networking': 
+        - 'Campus Networking':
             - 'Routed Access Layer': 'Architecture/Campus/routed-campus.md'
 # Theme Configuration
 theme:
@@ -41,8 +37,6 @@ extra:
     - type: 'globe'
       link: 'https://www.oscloud.io'
     - type: 'envelope'
-      link: 'mailto:peering@oscloud.io'
+      link: 'mailto:infrastructure@oscloud.io'
     - type: 'linkedin'
       link: 'https://www.linkedin.com/company/omnificent-systems-inc-/'
-    - type: 'connectdevelop'
-      link: 'https://as395077.peeringdb.com'
