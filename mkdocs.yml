@@ -1,7 +1,7 @@
 site_name: osCloud Services Documentation
 site_author: 'osCloud Engineering Team'
 site_url: 'https://docs.oscloud.io'
-copyright: 'Copyright &copy; 2018 Omnificent Systems Inc. All Rights Reserved.'
+copyright: 'Copyright &copy; 2019 Omnificent Systems Inc. All Rights Reserved.'
 nav:
     - Home: 'index.md'
     - Architecture:
@@ -10,6 +10,10 @@ nav:
             - 'Example Design 2': 'Architecture/osConnect/sample-option2.md'
         - 'Campus Networking':
             - 'Routed Access Layer': 'Architecture/Campus/routed-campus.md'
+    - Portal: 'Portal/index.md'
+        - 'Creating a VM': 'Portal/create-vm.md'
+        - 'Library Management': 'Portal/library.md'
+        - 'Networking & Edge Gateways': 'Portal/networking-and-edgegateway.md'
 # Theme Configuration
 theme:
   name: 'material'
