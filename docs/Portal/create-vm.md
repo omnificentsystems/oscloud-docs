@@ -4,11 +4,11 @@ Within vCloud Director, virtual machines are typically grouped into collections 
 ## Create a vApp
 To access the vApp screen, click the “vApps” entry in the menu on the left side of the screen:
 
-![](assets/portal/12-vapp.png)
+![](assets/12-vapp.png)
 
 Click on the “Build New vApp” button at the top of the screen to start building a new vApp.
 
-![](assets/portal/13-vapp-build.png)
+![](assets/13-vapp-build.png)
 
 A name for the vApp is required, and an optional description text field is also provided. Once you click on “Select a VDC” menu, a list of your Virtual datacenters will pop up. Most clients will only have one and should select it.
 
@@ -17,7 +17,7 @@ Click “Add Virtual Machine” to add the first virtual machine to this vApp.
 
 If your organization has a VM template on it that you wish to use, you can select “From Template” and select the template you wish to clone. Otherwise, set “Type” to “New” to see the full list of settings:
 
-![](assets/portal/13-vm-create.png)
+![](assets/13-vm-create.png)
 
 These will be configured as follows:
 - **Name**: The name you want to display for this VM within vCloud Director.
@@ -41,7 +41,7 @@ Once you have added your initial VM(s) to the vApp, click “Build” to create 
 
 Once the vApp has been created, it will show an entry on the vApp screen:
 
-![](assets/portal/14-vapp-status.png)
+![](assets/14-vapp-status.png)
 
 The buttons at the bottom of the vApp allow you to control the vApp as a whole, or modify it:
 - **Power**: This will enable you to power on, power off, suspend, or reset the entire vApp.
@@ -54,10 +54,10 @@ Clicking on the Virtual Machine in the top pane will bring you to the settings o
 
 Alternatively, you can also click on the “Virtual Machines” item in the menu on the left, and see a list of all VMs in all vApps:
 
-![](assets/portal/16-vms.png)
+![](assets/16-vms.png)
 
 The VMs on this screen will each have an entry as shown:
 
-![](assets/portal/17-vm-status.png)
+![](assets/17-vm-status.png)
 
 If you have not already connected install media to a VM, you can do it on this screen by clicking “More,” then “Insert Media.” If you have already connected install media or created a VM from a template, you can power on the VM, then click “More,” and click “Launch Web Console” to manage the VM directly.
