@@ -1,4 +1,5 @@
 # Introduction
+
 This documentation is intended to serve as a quick start guide to the osCloud Platform, powered by VMware vCloud Director. Additional in-depth documentation for these features, as well as other functionality available within vCloud Director, is available by clicking the question mark icon in the upper right corner, followed by the Help link in the menu that pops up:
 
 ![](assets/1-help.png)

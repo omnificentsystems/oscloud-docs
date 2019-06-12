@@ -1,4 +1,5 @@
 # Library Management
+
 Libraries are where installation media and VM templates are stored.
 
 To access Libraries, click the menu icon near the top left of the screen, and click “Libraries”:
@@ -16,6 +17,7 @@ Catalogs are collections of installation media and templates. You can access the
 osCloud provides a pre-populated catalog of Virtual Machine’s pre-built and patched. Also osCloud provides media to deploy your own virtual machines. The Public_Shared catalog should already be connected to your organization, which can be used for common installation media. If you want to upload your own installation media, click “Add” on this screen to create your own catalog. The following screen will prompt you for a name, and an optional description, before allowing you to click “OK”.
 
 ## Uploading Installation Media
+
 Once you have created a catalog, click the “Media & Other” menu item to upload files to it.
 
 ![](assets/20-media.png)
