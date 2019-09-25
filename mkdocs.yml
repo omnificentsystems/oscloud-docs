@@ -1,32 +1,33 @@
 site_name: osCloud Services Documentation
-site_author: 'osCloud Engineering Team'
-site_url: 'https://docs.oscloud.io'
-copyright: 'Copyright &copy; 2019 Omnificent Systems Inc. All Rights Reserved.'
+site_author: "osCloud Engineering Team"
+site_url: "https://docs.oscloud.io"
+copyright: "Copyright &copy; 2019 Omnificent Systems Inc. All Rights Reserved."
 nav:
-    - Home: 'index.md'
-    - Architecture:
-        - 'osConnect':
-            - 'Example Design 1': 'Architecture/osConnect/sample-option1.md'
-            - 'Example Design 2': 'Architecture/osConnect/sample-option2.md'
-        - 'Campus Networking':
-            - 'Routed Access Layer': 'Architecture/Campus/routed-campus.md'
-    - Portal:
-        - 'Introduction': 'Portal/introduction.md'
-        - 'Creating a VM': 'Portal/create-vm.md'
-        - 'Library Management': 'Portal/library.md'
-        - 'Networking & Edge Gateways': 'Portal/networking-and-edgegateway.md'
+  - Home: "index.md"
+  - Architecture:
+      - "osConnect":
+          - "Example Design 1": "Architecture/osConnect/sample-option1.md"
+          - "Example Design 2": "Architecture/osConnect/sample-option2.md"
+      - "Campus Networking":
+          - "Routed Access Layer": "Architecture/Campus/routed-campus.md"
+  - Portal:
+      - "Introduction": "Portal/introduction.md"
+      - "Creating a VM": "Portal/create-vm.md"
+      - "Library Management": "Portal/library.md"
+      - "Networking & Edge Gateways": "Portal/networking-and-edgegateway.md"
+  - _MSA: "msa.md"
 # Theme Configuration
 theme:
-  name: 'material'
+  name: "material"
   palette:
-    primary: 'white'
-    accent: 'blue'
+    primary: "white"
+    accent: "blue"
   font:
-    text: 'Raleway'
-    code: 'Fira Mono'
+    text: "Nunito"
+    code: "Fira Mono"
   logo:
-    icon: 'folder'
-  favicon: 'assets/favicon.ico'
+    icon: "folder"
+  favicon: "assets/favicon.ico"
   feature:
     tabs: true
 # Extensions
@@ -39,9 +40,9 @@ markdown_extensions:
 # Social Links
 extra:
   social:
-    - type: 'globe'
-      link: 'https://www.oscloud.io'
-    - type: 'envelope'
-      link: 'mailto:infrastructure@oscloud.io'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/company/omnificent-systems-inc-/'
+    - type: "globe"
+      link: "https://www.oscloud.io"
+    - type: "envelope"
+      link: "mailto:infrastructure@oscloud.io"
+    - type: "linkedin"
+      link: "https://www.linkedin.com/company/omnificent-systems-inc-/"

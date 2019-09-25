@@ -1,0 +1,181 @@
+# Master Services Agreement
+This MASTER SERVICES AGREEMENT (“Agreement”) is made by and between Omnificent Systems Inc. (“Omnificent Systems”), an Arizona Corporation with its principal place of business at 23425 N 121st Ave, Sun City, AZ, 85373, and Client (as defined in the applicable Services Proposal) (“Client”). Omnificent Systems and Client may each be referred to herein individually as a “Party” and collectively as the “Parties.”
+
+## Recitals
+- **A.** Omnificent Systems is a provider of various technology outsourcing and consulting services.
+
+- **B.** Client desires to engage Omnificent Systems to perform certain Services from time to time.
+
+- **C.** his Agreement sets forth the standard terms and conditions pursuant to which Omnificent Systems will provide Services to Client.
+
+## Agreement
+NOW, THEREFORE, in consideration of the mutual covenants and obligations hereinafter set forth, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, it is hereby agreed between the Parties, as follows:
+
+### 1.0 Definitions
+In addition to terms defined later in this Agreement, the terms below are defined as follows:
+
+- **1.1 “Affiliate(s)”** means any majority-owned subsidiary or other entity which a Party controls or is controlled by, or which is under common control with a Party.
+
+- **1.2 “Fees”** means the fees for Services, as set forth in the Services Proposal to this Agreement, as applicable. “Fees” also includes actual, reasonable and necessary costs which are directly related to Omnificent Systems’ performance of the Services. These costs include, but are not limited to, the costs for incidental supplies and costs related to travel, such as airfare, hotel, temporary housing, meals, parking, taxis, and mileage.
+
+- **1.3 “Intellectual Property”** means copyrights, patents, trade secrets and other intellectual and industrial property rights (excepting trade mark and related rights), and all applications and registrations relating thereto.
+
+- **1.4 “Representatives”** means a person’s or entity’s employees, agents and consultants, including without limitation, counsel, accountants and advisors.
+
+- **1.5 “Services”** means those managed services, and other related services, as specifically set forth in a Services Proposal and incorporated into this Agreement by reference.
+
+- **1.6 “Services Proposal”** means that certain Services Proposal Agreement entered into by the Parties on and referencing this Agreement.
+
+- **1.7 “System”** means Client’s network(s) and computer system(s) set forth in the applicable Services Proposal.
+
+- **1.8 “Work Product”** means all ideas, discoveries, inventions, materials, data, databases, software, designs, reports, communications, deliverables, or other work that is conceived, reduced to practice, made or developed solely or jointly by or for Omnificent Systems in connection with Omnificent Systems’ performance of any Services (whether or not patentable or copyrightable).
+
+### 2.0 Restrictions on Services
+
+#### 2.1 General
+Client agrees not to: **(i)** rent, lease, or loan the Services, or any part thereof, or provide the Services to others on its own behalf or on a third party’s behalf; **(ii)** permit third parties to benefit from the use of the Services via timesharing, service bureau arrangements, or otherwise; or **(iii)** download, export, or re-export any software or technical data received hereunder, regardless of the manner in which received, without all required United States and foreign government licenses.
+
+#### 2.2 Unauthorized Access
+Client shall not, and shall not request that any third party, modify, reverse engineer or attempt to gain unauthorized access to any portion of the Services. Client shall, by commercially reasonable means, prevent unauthorized disclosure, publication, display or use of the Services. Client will promptly notify Omnificent Systems of any known or suspected misuse of any Services.
+
+### 3.0 Purchase Terms
+
+#### 3.1 Fees and Payment
+Unless otherwise agreed in the applicable Services Proposal, Client will pay all Fees no later than thirty (30) days after the date of each applicable invoice. Omnificent Systems may change the Fees effective at least thirty (30) days after Omnificent Systems’ written notice of such. All payments shall be made in U.S. Dollars. If timely payment is not received, Omnificent Systems reserves the right, in addition to any other rights it may have, to: **(i)** suspend the Services until such payment is made in full; **(ii)** charge interest on the amount past due at the lesser of 1.5% per month or the maximum allowed by law; and **(iii)** invoice Client for all costs of collection including, but not limited to reasonable attorneys’ fees.
+
+#### 3.2 Taxes
+Excluding Omnificent Systems’ own payroll and income taxes, Client shall pay amounts equal to any taxes, shipping, insurance, duties or other amounts including without limitation, national, state, and local sales, use, withholding and VAT taxes, however designated, which are levied or based on such payments or arise as a consequence of the transactions under this Agreement. If Client is claiming tax-exempt status, Client shall provide Omnificent Systems with tax-exemption certificates prior to the initiation of the applicable Services.
+
+### 4.0 Obligations
+
+#### 4.1 Client Obligations
+
+- **(a)** The terms and conditions of this Agreement shall apply to all Services Proposals agreed to in writing between Omnificent Systems and Client. Services Proposals are solely for the purpose of specifying services to be performed pursuant to the Services Proposal, requesting delivery dates, identifying quantities and the amount of all fees associated with the Services Proposal. Once agreed to in writing by the Parties, Services Proposals are non-cancellable by Client, except as set forth in Section 10.3 of this Agreement.
+
+- **(b)** Client System requirements and Services exclusions will be as set forth in the applicable Services Proposal.
+
+- **(c)** Unless otherwise agreed upon in an applicable Services Proposal, Client shall be solely responsible for providing, maintaining and ensuring the compatibility of any hardware, software, electrical or other physical requirements necessary for Client to access or use the Services, including, without limitation, any computer hardware, software, telecommunications equipment, internet access or other equipment, programs or services necessary to access and use the Services. Client is responsible for all maintenance, support and licensing agreements with third party vendors, unless expressly set forth in this Agreement or the applicable Services Proposal. Further, Client shall be responsible for the application, operation, maintenance and support of its System, hardware and software including, but not limited to, the implementation of appropriate procedures, training and safeguards, performing routine backups, and keeping backup information in a safe and separate location. Omnificent Systems shall not be required to support altered, damaged or modified software, software which is not the most current version, or software not previously approved by Omnificent Systems in writing as an Omnificent Systems supported version.
+
+- **(d)** Omnificent Systems is responsible for backing up or replicating Client’s System and restoring any lost software or data only as agreed to in writing in the applicable Services Proposal.
+
+- **(e)** Client must provide Omnificent Systems with access to and permission to use its information, internal resources, and facilities as requested by Omnificent Systems to provide the Services.
+
+- **(f)** Client may provide Omnificent Systems with certain content to be included in the Work Product. Client understands and agrees that it is solely responsible for obtaining the necessary licenses, registrations, rights and permissions to use such content, including, without limitation, all Intellectual Property, rights of publicity or privacy and any other similar rights. Client hereby grants Omnificent Systems a non-exclusive, sublicensable, fully-paid, worldwide right and license to use, reproduce, modify, edit, adapt, translate, create derivative works upon, publish, publicly display, publicly perform, distribute, transmit and otherwise make such content available in any form, medium or technology now known or later developed solely as part of the Work Product.
+
+- **(g)** Client may request Omnificent Systems to install software on Client’s System and Omnificent Systems may recommend and install software on Client’s System. Client understands and agrees that Client is solely responsible for complying with software vendor end-user license agreements and any applicable state and federal laws.
+
+- **(h)** Client shall be solely responsible for, and Omnificent Systems shall not be responsible or liable for: **(i)** any delay or failure of performance caused, in whole or in part, by Client’s delay in performing or failure to perform any of its obligations under this Agreement; or **(ii)** any final decisions, actions or inactions undertaken by Client as a result of the Services or any recommendations or advice provided by Omnificent Systems.
+
+#### 4.2 Independent Contractor Relationship
+The relationship of Omnificent Systems and Client established by this Agreement is that of independent contractors, and nothing contained in this Agreement shall be construed to: **(i)** give either Party the power to direct and control the behavior or day-to-day activities of the other; **(ii)** constitute the Parties as partners, joint ventures, co-owners or otherwise as participants in a joint undertaking; or **(iii)** allow Client to create or assume any obligation on behalf of Omnificent Systems for any purpose whatsoever. All financial and other obligations associated with Client’s business are the sole responsibility of Client.
+
+#### 4.3 Subcontracting
+Omnificent Systems reserves the right to employ agents and subcontractors to assist Omnificent Systems when providing any part of the Services. Any reference to Omnificent Systems’ personnel in this Agreement includes agents and subcontractor staff. Omnificent Systems will remain liable to Client with respect to any Services provided, subject to the other provisions of this Agreement. Where Client requires Omnificent Systems to contract the services of a subcontractor specified by Client, Client will be responsible for the work to be performed by such subcontractor. Omnificent Systems’ agreement to integrate the work to be performed by such subcontractor for the purposes of this Agreement is on the basis that Omnificent Systems will not be responsible for, or liable to Client or to any other third party for the work performed by, or any acts, omissions, or defaults of, such subcontractor(s), or Omnificent Systems’ reliance thereon. In such circumstances, Client will be responsible and liable for, and will indemnify and hold harmless Omnificent Systems against and from, all claims, demands, proceedings, damages, losses, costs and expenses (including reasonable Attorneys’ Fees and Costs), made against, suffered or incurred by Omnificent Systems, directly or indirectly as a result of or in connection with the work performed by any such subcontractor.
+
+#### 4.4 Non-Solicitation
+Neither Client nor Omnificent Systems will recruit any personnel from each other during the Term of this Agreement or for at least one (1) year after termination or expiration of this Agreement, unless agreed in writing. If Client hires any Omnificent Systems personnel during the aforementioned period, and prior written authorization has not been obtained, Client shall pay a conversion fee equal to the then current annual salary of each Omnificent Systems personnel converted in contradiction of this Section. Such conversion fees shall be invoiced to Client and due to Omnificent Systems as set forth in Section 3.1.
+
+#### 4.5 Non-Exclusive Relationship
+Client agrees that nothing in this Agreement shall be construed to preclude Omnificent Systems from marketing, distributing, selling or providing any services to or for any other party, including other entities that may compete with Client.
+
+### 5.0 Intellectual Property
+
+- **5.1 Work Product**. All Work Product shall be, and remain, the sole property of Omnificent Systems. If by operation of law or otherwise any portion of the Work Product is not exclusively owned in its entirety by Omnificent Systems immediately upon the creation thereof or at any point thereafter, then Client hereby assigns its portion of the Work Product to Omnificent Systems. Notwithstanding the foregoing, Omnificent Systems grants Client a worldwide, royalty-free, non-exclusive, non-transferrable license to use the Work Product during and after the Term of this Agreement.
+
+- **5.2 Intellectual Property Rights**. Except for the limited rights granted to Client under this Agreement to the Work Product, all right, title and interest in and to the Services and the Work Product, including without limitation all concepts, methods, processes, software, text, graphics, images, designs, databases, data, inventions and any improvements, enhancements, modifications, and derivative works thereto, and all Intellectual Property therein are, and at all times shall remain, the sole and exclusive property of Omnificent Systems (“OS Property”). All rights not expressly granted to Client are retained by Omnificent Systems. Where Omnificent Systems’ rights to any portion of the OS Property arise under agreement with a third party supplier, such supplier shall have the benefit of Omnificent Systems’ rights set forth in this Agreement, and may enforce such rights directly against Client.
+
+### 6.0 Confidentiality
+
+#### 6.1 Definitions
+In connection with this Agreement, each Party (“Recipient”) may be exposed to or acquire Confidential Information of the other Party (“Discloser”) or third parties to whom Discloser has a duty of confidentiality. “Confidential Information” means non-public information in any form and regardless of the method of acquisition that the Discloser designates as confidential to Recipient or which, due to the nature of such information or under the circumstances surrounding disclosure, ought to be treated as confidential by the Recipient. Confidential Information shall not include information that is: **(i)** in or becomes part of the public domain (other than by disclosure by Recipient in violation of this Agreement); **(ii)** previously known to Recipient without an obligation of confidentiality; **(iii)** independently developed by Recipient without use of Discloser’s Confidential Information; or (iv) rightfully obtained by Recipient from third parties without an obligation of confidentiality. For purposes of clarity and without limitation, all Services and Work Product shall be considered the Confidential Information of Omnificent System and its suppliers. Upon Discloser’s written request, Recipient shall either return or destroy the Confidential Information and any copies or extracts thereof.
+
+#### 6.2 Restrictions on Use
+Recipient shall hold Discloser’s Confidential Information in confidence using commercially reasonable efforts and shall not disclose any such Confidential Information to any third party, other than to its Representatives and its Affiliates and their Representatives who need to know such information and who are bound by restrictions regarding disclosure and use of such information comparable to, and no less restrictive than, those set forth herein. Recipient shall not use Discloser’s Confidential Information for any purpose other than to carry out the terms of this Agreement. Recipient shall take the same degree of care that it uses to protect its own confidential information of similar nature and importance (but in no event less than reasonable care) to protect the confidentiality and avoid the unauthorized use, disclosure, publication or dissemination of the Discloser’s Confidential Information. Recipient shall promptly notify Discloser of any breach of this Agreement of which it becomes aware, and in any event, shall be responsible for any breach of this Agreement by any of its Affiliates, Representatives or Affiliates’ Representatives.
+
+#### 6.3 Exceptions
+Recipient may disclose Discloser’s Confidential Information: **(i)** to the extent required by applicable law or regulation; **(ii)** pursuant to a subpoena or order of a court or regulatory, self-regulatory or legislative body of competent jurisdiction; **(iii)** in connection with any regulatory report, audit or inquiry; or **(iv)** where requested by a regulator with jurisdiction over Recipient. In the event of such a requirement or request, Recipient shall give the Discloser prompt written notice of such requirement or request prior to such disclosure and reasonable assistance (at Discloser’s expense) in obtaining an order protecting the information from public disclosure. Omnificent Systems and Client agree that the terms and conditions of this Agreement shall be treated as Confidential Information.
+
+### 7.0 Limited Warranties
+
+#### 7.1 By Omnificent Systems
+Omnificent Systems represents that: **(i)** the Services will be performed with such reasonable care and skill as is consistent with industry standards for such Services; **(ii)** it is duly organized, validly existing and in good standing under the laws of its state of domicile; **(iii)** it has the power and authority to execute and perform under this Agreement; and **(iv)** this Agreement constitutes a valid and binding obligation enforceable in accordance with its terms.
+
+#### 7.2 By Client
+Client represents that: **(i)** the information provided to Omnificent Systems for completing the Services is and will be accurate and complete in all material respects; **(ii)** it is duly organized, validly existing and in good standing under the laws of its state of domicile; **(iii)** it has the power and authority to execute and perform under this Agreement; and **(iv)** this Agreement constitutes a valid and binding obligation enforceable in accordance with its terms.
+
+#### 7.3 Warranty Exclusions
+OMNIFICENT SYSTEMS IS BEING ENGAGED ONLY TO PROVIDE THE SERVICES SET FORTH IN THIS AGREEMENT AND IN THE APPLICABLE SERVICES PROPOSAL AGREED BY THE PARTIES IN WRITING, INCLUDING ANY AGREED WORK PRODUCT. THE FOREGOING LIMITED WARRANTIES DO NOT APPLY TO MODIFICATIONS TO THE SERVICES OR THE WORK PRODUCT. OMNIFICENT SYSTEMS SHALL NOT BE LIABLE FOR ANY LOSS OF DATA AND SHALL NOT BE RESPONSIBLE FOR RESTORING ANY LOST DATA OR SOFTWARE EXCEPT AS SPECIFICALLY DESCRIBED IN THE APPLICABLE SERVICES PROPOSAL. OMNIFICENT SYSTEMS DOES NOT WARRANT ANY THIRD PARTY PRODUCTS OR SYSTEMS. HOWEVER, AND TO THE EXTENT PERMITTED, OMNIFICENT SYSTEMS WILL PASS THROUGH ANY WARRANTIES FROM SUPPLIERS OF PRODUCTS OR SERVICES. WITH THE EXCEPTION OF THE FOREGOING LIMITED WARRANTIES, OMNIFICENT SYSTEMS EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND RELATING TO THE SERVICES OR WORK PRODUCT, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE OR PURPOSE, TITLE AND NON-INFRINGEMENT. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, OMNIFICENT SYSTEMS MAKES NO WARRANTY THAT THE SERVICES AND ANY WORK PRODUCT WILL MEET CLIENT’S REQUIREMENTS OTHER THAN THOSE SET FORTH IN THE APPLICABLE SERVICES PROPOSAL, THAT THE RESULTS OBTAINED FROM THE USE OF THE FOREGOING WILL BE SATISFACTORY, ACCURATE OR RELIABLE, OR THAT THE SERVICES OR WORK PRODUCT WILL MEET CLIENT’S EXPECTATIONS. THE REPRESENTATIVES OF OMNIFICENT SYSTEMS HAVE NO AUTHORITY TO GIVE ANY WARRANTIES ON BEHALF OF OMNIFICENT SYSTEMS. CLIENT IS SOLELY RESPONSIBLE FOR THE SCOPE, GOALS AND OVERALL DIRECTION OF THE SERVICES, AS WELL AS THE IMPLEMENTATION OF ANY COURSE OF ACTION BASED ON SUCH SERVICES.
+
+### 8.0 Indemnification Obligations
+
+#### 8.1 Infringement
+Omnificent Systems shall defend at its own expense any third-party claim, suit or proceeding brought against Client insofar as it is based on a claim that Omnificent Systems Work Product infringes a valid United States patent. Omnificent Systems shall pay all damages, costs and expenses finally awarded to third parties as a result of a final judgment against Client or settlement of such claim negotiated by Omnificent Systems, but shall not be responsible for any compromise made without its written consent. To qualify for such defense and payment, the Client must: **(i)** give Omnificent Systems prompt written notice of any such claim; and **(ii)** allow Omnificent Systems to control, and fully cooperate with Omnificent Systems in, the defense and all related settlement negotiations. Upon notice of an alleged infringement, or if, in Omnificent Systems’ opinion, such a claim is likely, Omnificent Systems shall have the right, at its option, to obtain the right for the Client to continue to use the applicable Work Product, substitute other work with similar capabilities or performance, or modify Work Product so that it is no longer infringing. In the event that none of the above options are commercially practicable in Omnificent Systems’ sole discretion, Omnificent Systems may terminate this Agreement and all accompanying licenses. In the event of such termination, Client may, as its sole and exclusive remedy, obtain a refund from Omnificent Systems of any pre-paid Fees paid for the Work Product, pro-rated over a period of five (5) years. Omnificent Systems shall not be responsible for any claim of infringement that arises from: **(i)** unauthorized modifications to Work Product; **(ii)** use of Work Product in a manner or in combination with products not provided or approved in writing by Omnificent Systems; or **(iii)** any use of Work Product not in accordance with this Agreement or the applicable Services Proposal. THE FOREGOING STATES CLIENT’S EXCLUSIVE RIGHTS AND REMEDIES WITH RESPECT TO ANY INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHTS.
+
+#### 8.2 Indemnity
+Client (as the “Indemnitor”) shall defend, indemnify and hold harmless the Omnificent Systems and its officers, directors, employees, and agents (collectively, “Indemnitees,”), for, from and against any and all third party (the modifier third party applying to all of the following listed categories) losses, damages, liabilities, deficiencies, claims, actions, causes of action, judgments, settlements, assessments, demands, interest, awards, penalties, fines, costs, or expenses, including, without limitation, reasonable Attorneys’ Fees and Costs (as defined below) that are incurred by Indemnitee or awarded against Indemnitee (collectively, “Losses”) that an Indemnitee may incur or be subject to as a result of or arising out of: **(i)** Client’s failure to comply with applicable law or regulation; **(ii)** the gross negligence or willful misconduct of Client (or any third party for whom Client is responsible); **(iii)** Client’s obligations and duties to any third party, whether in law, equity or contract, including its obligations and duties in connection with any third party provider of software or hardware; **(iv)** Client’s breach of any other agreement or any judgment, order, or decree by which Client is bound; and (v) Client’s decisions and actions taken (or not taken) in connection with or resulting from the Services or any recommendations and advice provided by Omnificent Systems.
+
+#### 8.3 Damages
+The Indemnitor shall pay all damages, costs and expenses finally awarded under Section 8.2 to third parties as a result of a final judgment against an Indemnitee or settlement of such claim negotiated by the Indemnitor, but shall not be responsible for any compromise made without its written consent. To qualify for such defense and payment, the Indemnitee must: **(i)** give the Indemnitor prompt written notice of any such claim; and **(ii)** allow Indemnitor to control, and fully cooperate with Indemnitor in, the defense and all related settlement negotiations.
+
+### 9.0 Limitation of Liability
+
+EXCEPT IN THE CASE OF EACH PARTY’S INDEMNIFICATION OBLIGATIONS OR BREACH OF ITS CONFIDENTIALITY OBLIGATIONS, OR FOR CLIENT’S BREACH OF SECTION 2.0 (RESTRICTIONS ON SERVICES), IN NO EVENT **(I)** SHALL EITHER PARTY’S LIABILITY TO THE OTHER EXCEED THE AGGREGATE AMOUNTS PAID BY CLIENT TO OMNIFICENT SYSTEMS IN THE NINETY (90) DAYS PRECEDING ANY CLAIM, EXCEPT THAT DAMAGES FOR BREACH OF SECTION 4.4 (NON-SOLICITATION) ARE NOT SO LIMITED, AND THE EXISTENCE OF MORE THAN ONE CLAIM OR CAUSE OF ACTION WILL NOT ENLARGE THE FOREGOING LIMIT; OR **(II)** SHALL EITHER PARTY BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING FROM BREACH OF WARRANTY, LOST PROFITS, BREACH OF CONTRACT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, WHETHER IN TORT OR CONTRACT, EVEN IF SUCH PARTY IS AWARE OF THE LIKELIHOOD OF SUCH DAMAGES OCCURRING.
+
+### 10.0 Term and Termination
+
+#### 10.1 Term
+This Agreement shall begin on the Effective Date and shall remain in full force and effect until terminated by either Party pursuant to this Section (the “Term”).
+
+#### 10.2 Termination without Cause
+Omnificent Systems may terminate this Agreement or any applicable Services Proposal at any time without cause upon ninety (90) days prior written notice to Client. Termination of one Services Proposal shall not terminate any other Services Proposal.
+
+#### 10.3 Termination with Cause
+Either Party may terminate this Agreement upon thirty (30) days written notice of a material breach of this Agreement if such breach is not cured within such thirty (30) day period.
+
+#### 10.4 Survival
+In the event of termination of this Agreement for any reason, this Section and Section 1.0 (Definitions), Section 2.0 (Restrictions on Services), Section 3.0 (Purchase Terms), Section 4.1(f) (Client Obligations), Section 4.2 (Independent Contractor Relationship), Section 4.3 (Subcontracting), Section 4.4 (Non-Solicitation), Section 5.0 (Intellectual Property), Section 6.0 (Confidentiality), Section 7.0 (Limited Warranties), Section 8.0 (Indemnification Obligations), Section 9.0 (Limitation of Liability), Section 10.5 (Effect of Termination) and Section 11.0 (Miscellaneous) shall survive.
+
+#### 10.5 Effect of Termination
+Termination of this Agreement with cause shall automatically terminate all Services Proposals under this Agreement, but termination of this Agreement without cause shall not terminate any Services Proposal then in effect unless such Services Proposal is also specifically so terminated. Upon termination by either Party of this Agreement or a specific Services Proposal, Client shall pay Omnificent Systems for all amounts due under the terms of this Agreement or such Services Proposal. Termination shall not preclude the non-breaching Party from pursuing any and all remedies available to it at law or equity.
+
+### 11.0 Miscellaneous
+
+#### 11.1 Assignment
+Client may not assign this Agreement without the prior written approval of Omnificent Systems. For the purposes of this Section, a change in the persons or entities that control fifty percent (50%) or more of the equity securities or voting interest of Client shall be considered an assignment.
+
+#### 11.2 Waivers
+The waiver by either Party of a breach of any provision shall be in writing and shall in no way be construed as a waiver of any succeeding breach of such provision or a continuing waiver of the provision itself.
+
+#### 11.3 No Third Party Beneficiaries
+Except for Omnificent Systems’ suppliers, the terms and provisions of this Agreement are intended solely for the benefit of each Party hereto and their respective successors and assigns, and it is not the intention of the Parties to confer third-party beneficiary rights upon any other person.
+
+#### 11.4 Disputes
+
+- **(a)** This Agreement shall be governed in all respects by the laws of the State of Arizona, without regard to its choice of law rules. Both Parties consent to the exclusive jurisdiction of the courts in the State of Arizona, County of Maricopa in the event of any dispute relating to this Agreement. No action arising out of this Agreement, regardless of the form, may be brought by either Party more than one (1) year after the cause of action has accrued. No legal action regardless of the form, relating in any matter to this Agreement may be brought by either Party more than one (1) year after recognition of the event giving rise to the cause of action with the exception of non-payment hereunder, breach of the confidentiality obligations, or actions for breach of Omnificent Systems’ intellectual property rights.
+
+- **(b)** If a dispute arises between the Parties relating to this Agreement that cannot be resolved informally, each Party involved in such dispute (each, a “Disputing Party” and, collectively, the “Disputing Parties”) agrees to comply with the procedures set forth in this Section (“Dispute Resolution Procedures”). The Dispute Resolution Procedures will be invoked by a Party, before such Party pursues any other available remedy, by such Party giving written notice to the other Party. Following receipt of such notice, the Disputing Parties shall, for a period of thirty (30) days after the dispute first arises, attempt in good faith to negotiate a resolution of the dispute (the “Initial Negotiation”). The Initial Negotiation will include no less than two (2) in-person meetings among authorized representatives of each Disputing Party, each of whom shall have authority from the respective boards of directors of the Disputing Parties to settle the matter. If the dispute is not resolved during the Initial Negotiation, the Disputing Parties shall, for an additional period of thirty (30) days after the end of the Initial Negotiation period, continue to attempt in good faith to negotiate a resolution of the dispute (the “Extended Negotiation”). The Extended Negotiation will include no less than two in-person meetings between the President and/or Chief Executive Officer of Client and the President and/or Chief Executive Officer of Omnificent Systems, each of whom shall have authority from the respective boards of directors of the Disputing Parties to settle the matter. If the Disputing Parties cannot reach agreement pursuant the informal Dispute Resolution Procedures set forth in this Section, the Disputing Parties may proceed with such remedies as they may be entitled and deem appropriate. Each of the Parties agrees that notice as provided herein shall constitute sufficient service of process and the Parties further waive any argument that such service is insufficient. EACH OF THE PARTIES HEREBY IRREVOCABLY WAIVES ALL RIGHT TO A TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE PROVISIONS OF THIS SECTION.
+
+- **(c)** The Parties acknowledge and agree that a remedy at law for any breach or attempted breach of the provisions of Section 4.4 (Non-Solicitation), Section 5.0 (Intellectual Property) and Section 6.0 (Confidentiality) may be inadequate, and therefore, either Party is entitled to specific performance and injunctive or other equitable relief in the event of any such breach or attempted breach, in addition to any other rights or remedies available to either Party at law or in equity. Each Party waives any requirement: (i) for the securing or posting of any bond in connection with the obtaining of any such injunctive or other equitable relief; and (ii) for proving actual damages. For clarification, a Party does not have to follow the Dispute Resolution Procedures in the event this Subsection is applicable.
+
+- **(d)** The prevailing Party in any mediation, arbitration or other legal action between the Parties relating to this Agreement will be entitled to an award of its reasonable Attorneys’ Fees and Costs incurred in connection with such action, as determined by a judge and not a jury. “Attorneys’ Fees and Costs” means: (i) fees and out-of-pocket costs of a Party and a Party’s attorneys, as applicable, including costs of such Party’s in-house counsel, support staff costs, costs of preparing for litigation, computerized research, telephone and facsimile transmission expenses, mileage, deposition costs, postage, duplicating, process service, videotaping and similar costs and expenses; (ii) costs and fees of expert witnesses, including appraisers; and **(iii)** investigatory fees.
+
+#### 11.5 Severability
+In the event that any provision of this Agreement shall be unenforceable or invalid under any applicable law or be so held by applicable court decision, such provision shall be changed and interpreted so as to best accomplish the objectives within the limits of applicable law or if necessary to maintain the validity of the remaining terms, removed from the Agreement.
+
+#### 11.6 Force Majeure
+Neither Party shall be liable for any delay or failure to perform arising from any cause beyond its reasonable control, except for the payment of money, including without limitation, to the extent that performance is rendered impossible by strike, fire, flood, wars, sabotage, civil unrest, governmental acts, or any other reason where failure to perform is beyond the reasonable control of and is not caused by the negligence of the nonperforming Party.
+
+#### 11.7 Notices
+All notices given pursuant to this Agreement shall be in writing and effective: (i) upon receipt if hand delivered; (ii) on the next business day after being sent by confirmed email or facsimile; **(iii)** on the third business day following deposit with the postal service and addressed to the receiving Party’s respective address listed above unless otherwise agreed to in writing.
+
+#### 11.8 Records and Inspection
+Omnificent Systems shall have the right, during normal business hours and with reasonable advance notice, to inspect Client’s premises or audit Client’s network for the purpose of verifying Client’s compliance with its obligations under this Agreement.
+
+#### 11.9 Neutral Construction
+The Parties agree that this Agreement was negotiated fairly between them at arm’s length and that the final terms of this Agreement are the product of the Parties’ negotiations. The Parties further agree that this Agreement will be deemed to have been jointly and equally drafted by them, and that the provisions of this Agreement therefore should not be construed against a Party on the grounds that the Party drafted or was more responsible for drafting the provision(s).
+
+#### 11.10 Entire Agreement; Amendments
+This Agreement and any Services Proposals, as well as any written amendments, completely and exclusively state the agreement of the Parties regarding the subject matter described. This Agreement shall not be modified except by a subsequently dated written amendment signed on behalf of Omnificent Systems and Client by their duly authorized representatives.
+
+#### 11.11 Counterparts and Electronic Copies
+This Agreement may be executed in two or more counterparts, and it is not necessary that signatures of both Parties appear on the same counterpart, but such counterparts together will constitute a single binding agreement between the Parties. Counterparts may be executed by hand or by any electronic signature complying with the U.S. ESIGN Act of 2000 (the “ESIGN Act”). Executed counterparts may be delivered via facsimile, email, or other similar transmission method, and any executed counterpart so delivered will be valid and effective for all purposes. Neither Party will raise the use of any electronic signature that complies with the ESIGN Act (including www.docusign.com), or the use of a facsimile machine, email, or other similar transmission method as a means to deliver a signature to this Agreement or any amendment, as a defense to the formation or enforceability of a contract and each Party forever waives any such defense.
