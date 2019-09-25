@@ -15,7 +15,8 @@ nav:
       - "Creating a VM": "Portal/create-vm.md"
       - "Library Management": "Portal/library.md"
       - "Networking & Edge Gateways": "Portal/networking-and-edgegateway.md"
-  - _MSA: "msa.md"
+  - Documents:
+      - "Master Services Agreement": "documents/msa.md"
 # Theme Configuration
 theme:
   name: "material"
@@ -35,8 +36,10 @@ markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
+  - meta
   - toc:
       permalink: true
+      baselevel: 3
 # Social Links
 extra:
   social:
