@@ -1,4 +1,7 @@
-# Master Services Agreement
+---
+date: 2017-01-19
+---
+
 This MASTER SERVICES AGREEMENT (“Agreement”) is made by and between Omnificent Systems Inc. (“Omnificent Systems”), an Arizona Corporation with its principal place of business at 23425 N 121st Ave, Sun City, AZ, 85373, and Client (as defined in the applicable Services Proposal) (“Client”). Omnificent Systems and Client may each be referred to herein individually as a “Party” and collectively as the “Parties.”
 
 ## Recitals

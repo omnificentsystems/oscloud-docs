@@ -39,7 +39,6 @@ markdown_extensions:
   - meta
   - toc:
       permalink: true
-      baselevel: 2
 # Social Links
 extra:
   social:
